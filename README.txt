@@ -1,3 +1,2 @@
-Welcome to the PGAA Data Analysis Program v0.1.0
-Requirements may be installed with the command "pip install -r requirements.txt" (run while inside this folder).
-You can run the program (from either a command prompt for normal python or an Anaconda prompt for Anaconda) using the command "python main.py" (again from within this folder).
+upload clean versions from previously sent v0.2.1.
+Need to find out the difference between Chris' github version and the previously sent version, both are numbered v0.2.1.
